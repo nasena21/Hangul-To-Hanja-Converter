@@ -2,8 +2,6 @@
 
 This is a program that can automatically convert Hangul to Hanja and create output that is suitable for use in an Anki card.
 
-Understood! Here is the plain text you requested:
-
 ## Example Usage ##
 
 For instance, given the input sentence:
