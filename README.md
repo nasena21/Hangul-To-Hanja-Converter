@@ -39,6 +39,11 @@ Several options can be configured for HanjaroTagger during initization:
   * `simplified_han`: (*bool*) if true, it converts Traditional Chinese characters (zh-cn) into Simplified Chinese characters (hans-cn).
   * `unified_cjk`: (*bool*) if true, it converts Chinese characters possibly encoded in [CJK compatibility unicodes](https://en.wikipedia.org/wiki/Unicode_compatibility_characters) into CJK Unified Ideographs.
 
+## Acknowledgments
+
+This project is based on the [hanja-tagger](https://github.com/kaniblu/hanja-tagger) by Kang Min Yoo, which is licensed under the MIT License.
+
+
 ## Disclaimer ##
 
 This package comes with a crawler that should only be used for non-commercial and research purposes. Furthermore, it is the responsibility of the user to ensure that using this package incurs no damage to the owner of the website.
