@@ -1,3 +1,26 @@
+# Hangul to Hanja Converter #
+
+This is a program that can automatically convert Hangul to Hanja and create output that is suitable for use in an Anki card.
+
+Understood! Here is the plain text you requested:
+
+## Example Usage ##
+
+For instance, given the input sentence:
+
+```
+저는 학생입니다.
+```
+
+The output would be:
+
+```
+저는 學[학]生[생]입니다.
+```
+
+---
+
+
 # hanja-tagger #
 
 Automatic Korean Hanja tagging tool powered by Hanjaro (hanjaro.juntong.or.kr)
